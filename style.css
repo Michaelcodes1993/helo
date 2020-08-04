@@ -1,0 +1,24 @@
+header {
+	display: flex;
+	flex-direction: column;
+}
+
+.head {
+	display: flex;
+	flex-direction: column;
+	margin: 0 0 0 105px;
+}
+
+#menu {
+	display: flex;
+	flex-direction: row;
+	margin: 0 5px 0 50px;
+}
+
+#menu li a {
+	margin-right: 7px;
+}
+
+#menu li {
+	list-style: none;
+}
